@@ -212,9 +212,7 @@ public class Contact_Message_Manager {
                     Message m = new Message();
                     messages.add(m);
                 }
-                else {
-                    System.out.println("Invalid Option");
-                }
+                else {}
             } else if ((ch ==3)) {
                 System.exit(0);
             }
